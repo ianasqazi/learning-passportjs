@@ -56,6 +56,6 @@ npm install
 
 All packages will be installed and now run the application with the command below : 
 
-​```bash
+```bash
 npm start
 ```
